@@ -1,0 +1,8 @@
+{
+    "device_type": "cisco_asa",
+    "host": "1.2.3.4",
+    "username": "username",
+    "password": "password",
+    "secret": "",
+    "port": 22
+}
